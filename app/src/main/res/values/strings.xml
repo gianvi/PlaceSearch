@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlaceSearch</string>
+    <!-- map service -->
+    <string name="basemap_url">http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer</string>
+    <!-- geocode service -->
+    <string name="geocode_url">http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer</string>
+    <!-- action bar -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Place Search</string>
+    <string name="search_hint">Search address or place</string>
+    <string name="menu_search">Search</string>
+
+    <!-- progress dialog messages -->
+    <string name="address_search">Searching for Address</string>
+    <string name="addressSearchFailed">Address search failed</string>
+    <string name="noResultsFound">No results found</string>
+
+</resources>
